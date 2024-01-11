@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: "val lambda: (Int, Int) -> Int = TODO(\"Provide implementation\")"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6160#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 09 Jan 2024 04:35:23 UTC"
+record: -1
+submission_language: kotlin

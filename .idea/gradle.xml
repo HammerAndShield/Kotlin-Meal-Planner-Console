@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Meal Planner (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Meal Planner (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Meal Planner (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Meal Planner (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Meal Planner (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function type" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/New terms" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/ Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Types" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

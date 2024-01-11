@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: "// TODO: provide isEven function here"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5998#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 08 Jan 2024 16:13:40 UTC"
+record: -1
+submission_language: kotlin

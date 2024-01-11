@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - "{ 2 + 3 }"
+  - "{ println(it) }"
+  - "fun(i: Int) = i * i"
+options:
+  - (Int) -&gt; Int
+  - () -&gt; Int
+  - (Int) -&gt; Unit
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6156#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

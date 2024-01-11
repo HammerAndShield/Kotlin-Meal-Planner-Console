@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - Decrement
+  - Predicate
+  - Reference
+  - Runtime
+options:
+  - A function that returns a logical value
+  - An operation to decrease a value by 1
+  - Allows to interact with an object using a custom name
+  - Moments when an application is working
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5993#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

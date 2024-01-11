@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Meal Planner (Kotlin)/task/build/
+/Meal Planner (Kotlin)/task/out/
+/Meal Planner (Kotlin)/task/out/production/classes/

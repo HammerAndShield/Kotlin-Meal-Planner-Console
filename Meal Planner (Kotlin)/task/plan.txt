@@ -1,0 +1,27 @@
+eggs x5
+milk x6
+cheese x9
+salmon x2
+rice x2
+avocado x2
+pumpkin x2
+coconut milk x2
+curry x2
+carrots x2
+bread x3
+ham x2
+chicken x2
+lettuce x3
+tomato x6
+olives x3
+beef steak x2
+oats x2
+banana x2
+peanut butter x2
+flour x2
+salami x2
+sausages
+bacon
+tomatoes
+onion
+orzo
